@@ -1,0 +1,16 @@
+{
+  "name": "todolist-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/MenuLista.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.5.0"
+  }
+}
